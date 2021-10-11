@@ -1,0 +1,3 @@
+([('modifypic.exe',
+   '/Users/raffin/PycharmProjects/modifier_pic/dist/modifypic.exe',
+   'EXECUTABLE')],)
